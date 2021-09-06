@@ -1,0 +1,61 @@
+.bg {
+    background-image: linear-gradient(rgb(119, 6, 72),rgb(95, 8, 129))
+}
+.navbar .nav-item .nav-link {
+    color: white;
+    font-size: 200%;
+
+}
+.container .navbar-brand {
+    color: white;
+    font-size: 250%;
+}
+.w {
+    margin-top: 60px;
+    font-size: 200%;
+    color: white;
+}
+.e {
+    margin-top: 30px;
+    font-size: 150%;
+    color: white;
+}
+.btn  {
+    margin-left: 20px;
+    border-radius: 20px;
+    margin-bottom: 80px;
+    margin-top: 60px;
+    background: mediumvioletred;
+}
+img {
+    margin-top: 60px;
+    margin-left: 100px;
+    width: 700px;
+    height: 400px;
+}
+.r {
+    width: 60px;
+    height: 60px;
+}
+.t {
+    width: 60px;
+    height: 60px;
+}
+.y {
+    width: 60px;
+    height: 60px;
+
+}
+.h {
+    display: flex;
+    justify-content: space-between;
+}
+.j {
+    text-align: center;
+    box-sizing: border-box;
+}
+.s {
+    margin-left: 90px;
+    margin-top: 20px;
+    color: mistyrose;
+}
